@@ -18,6 +18,5 @@ public class BotInfoController {
         bot1.put("name", "tiger");
         bot1.put("rating", "1500");
         return bot1;
-
     }
 }
